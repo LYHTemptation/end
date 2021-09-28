@@ -31,3 +31,7 @@
 ___
 
 pull을 받고, 끝말잇기, add>commit>pull>pull
+
+## 끝말잇기
+
+신 > 신고 
